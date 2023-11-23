@@ -1,0 +1,14 @@
+C:\Users\alexander.eijvergar\Documents\Programering\VinterProjekt\VinterProjekt\obj\Debug\net6.0\VinterProjekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexander.eijvergar\Documents\Programering\VinterProjekt\VinterProjekt\obj\Debug\net6.0\VinterProjekt.AssemblyInfoInputs.cache
+C:\Users\alexander.eijvergar\Documents\Programering\VinterProjekt\VinterProjekt\obj\Debug\net6.0\VinterProjekt.AssemblyInfo.cs
+C:\Users\alexander.eijvergar\Documents\Programering\VinterProjekt\VinterProjekt\obj\Debug\net6.0\VinterProjekt.csproj.CoreCompileInputs.cache
+C:\Users\alexander.eijvergar\Documents\Programering\VinterProjekt\VinterProjekt\bin\Debug\net6.0\VinterProjekt.exe
+C:\Users\alexander.eijvergar\Documents\Programering\VinterProjekt\VinterProjekt\bin\Debug\net6.0\VinterProjekt.deps.json
+C:\Users\alexander.eijvergar\Documents\Programering\VinterProjekt\VinterProjekt\bin\Debug\net6.0\VinterProjekt.runtimeconfig.json
+C:\Users\alexander.eijvergar\Documents\Programering\VinterProjekt\VinterProjekt\bin\Debug\net6.0\VinterProjekt.dll
+C:\Users\alexander.eijvergar\Documents\Programering\VinterProjekt\VinterProjekt\bin\Debug\net6.0\VinterProjekt.pdb
+C:\Users\alexander.eijvergar\Documents\Programering\VinterProjekt\VinterProjekt\obj\Debug\net6.0\VinterProjekt.dll
+C:\Users\alexander.eijvergar\Documents\Programering\VinterProjekt\VinterProjekt\obj\Debug\net6.0\refint\VinterProjekt.dll
+C:\Users\alexander.eijvergar\Documents\Programering\VinterProjekt\VinterProjekt\obj\Debug\net6.0\VinterProjekt.pdb
+C:\Users\alexander.eijvergar\Documents\Programering\VinterProjekt\VinterProjekt\obj\Debug\net6.0\VinterProjekt.genruntimeconfig.cache
+C:\Users\alexander.eijvergar\Documents\Programering\VinterProjekt\VinterProjekt\obj\Debug\net6.0\ref\VinterProjekt.dll
