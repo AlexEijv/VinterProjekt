@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VvijXqmgL8+WZASnlUJYTD7VI+HGXI0JMlWYz7JyGmINT9NRffjKzWwa/xUHGwj0+9mZ83rFfiiuJividRctiw==",
+  "dgSpecHash": "09KaqgOg4dbwb0m0q17S/J3w3GdKSnyzSHPAwNf63A10KfvUsu3yMveu6AS+l9ysCOHcf7D6+G+oAggP+H3+9w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alexander.eijvergar\\Documents\\Programering\\VinterProjekt\\VinterProjekt\\VinterProjekt.csproj",
+  "projectFilePath": "c:\\Users\\alexander.eijvergar\\Documents\\Programering\\VinterProjekt\\VinterProjekt\\VinterProjekt.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alexander.eijvergar\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.24\\microsoft.netcore.app.ref.6.0.24.nupkg.sha512",
     "C:\\Users\\alexander.eijvergar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.24\\microsoft.windowsdesktop.app.ref.6.0.24.nupkg.sha512",
