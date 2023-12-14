@@ -112,6 +112,7 @@ void HomeC()
 bool replay = true;
 while (replay)
 {
+  Console.Clear();
   Start();
   string gång = AskForABC();
 
