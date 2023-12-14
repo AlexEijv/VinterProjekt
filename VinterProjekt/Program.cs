@@ -114,9 +114,9 @@ while (replay)
 {
   Console.Clear();
   Start();
-  string gång = AskForABC();
+  string walk = AskForABC();
 
-  if (gång == "a")
+  if (walk == "a")
   {
     StartA();
 
@@ -128,21 +128,21 @@ while (replay)
     }
   }
 
-  else if (gång == "b")
+  else if (walk == "b")
   {
     StartB();
 
-    gång = AskForABC();
+    walk = AskForABC();
 
 
-    if (gång == "a")
+    if (walk == "a")
     {
       PathA();
 
-      gång = AskForABC();
+      walk = AskForABC();
 
 
-      if (gång == "a")
+      if (walk == "a")
       {
         homeA();
         string replayChoice = Console.ReadLine().ToLower();
@@ -152,7 +152,7 @@ while (replay)
           Console.WriteLine("Tack för du har spelat");
         }
       }
-      else if (gång == "b")
+      else if (walk == "b")
       {
         HomeB();
         string replayChoice = Console.ReadLine().ToLower();
@@ -163,7 +163,7 @@ while (replay)
         }
       }
 
-      else if (gång == "c")
+      else if (walk == "c")
       {
         HomeC();
         string replayChoice = Console.ReadLine().ToLower();
@@ -174,7 +174,7 @@ while (replay)
         }
       }
     }
-    else if (gång == "b")
+    else if (walk == "b")
     {
       PathB();
       string replayChoice = Console.ReadLine().ToLower();
@@ -184,7 +184,7 @@ while (replay)
           Console.WriteLine("Tack för du har spelat");
         }
     }
-    else if(gång == "c")
+    else if(walk == "c")
     {
       PathC();
       string replayChoice = Console.ReadLine().ToLower();
@@ -197,7 +197,7 @@ while (replay)
   }
 
 
-  else if (gång == "c")
+  else if (walk == "c")
   {
     StartC();
 
