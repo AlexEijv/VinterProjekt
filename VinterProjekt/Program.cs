@@ -13,7 +13,7 @@ string AskForABC()
   }
   return input;
 }
-
+//metod för att det inte ska bli så klottrigt i koden
 void Start()
 {
   Console.WriteLine("Du vaknar upp på en buss hållplats.");
@@ -109,6 +109,7 @@ void HomeC()
 }
 
 //Bool och while loop för att kunna köra igen utan att starta om
+
 bool replay = true;
 while (replay)
 {
@@ -116,6 +117,7 @@ while (replay)
   Start();
   string walk = AskForABC();
 
+//För att kunna använda void metoden
   if (walk == "a")
   {
     StartA();
